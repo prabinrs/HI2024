@@ -6,12 +6,12 @@ Most of the lectures, labs, and notebooks are avalible in github and canvas
 
 ### Module 1: Introduction to Health Informatics
 
- * Chapter 1.1: [Definition of Health informatics and it relations with other subjects](01_01.md)  [🖥]()
- * Chapter 1.2: [Scope of Health informatics and it's Application](01_02.md)
- * Chapter 1.3 : [Baisc Terms and Concepts](01_03.md)
- * Chapter 1.4: [Health Informatics in Context of Nepal](01_04.md)
- * Chapter 1.5 : [Challenges in Health informatics](01_05.md)
- * Chapter 1.6 : [Health Informatics Methods](01_05.md)
+ * Chapter 1.1: [Definition of Health informatics and it relations with other subjects](/chapters/week01/01_01.md)  [🖥]()
+ * Chapter 1.2: [Scope of Health informatics and it's Application](/chapters/week01/01_02.md)
+ * Chapter 1.3 : [Baisc Terms and Concepts](/chapters/week01/01_03.md)
+ * Chapter 1.4: [Health Informatics in Context of Nepal](/chapters/week01/01_04.md)
+ * Chapter 1.5 : [Challenges in Health informatics](/chapters/week01/01_05.md)
+ * Chapter 1.6 : [Health Informatics Methods](/chapters/week01/01_05.md)
 
 ### Module 2: Health Information System / Digital Health
 
