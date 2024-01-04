@@ -35,8 +35,6 @@ exclude:
 
 prologues:
   - path: chapters/prologue.md
-    sections:
-      - path: chapters/prologue2.md
 chapters:
   - path: chapters/week01/01.md
     sections:
@@ -50,6 +48,4 @@ chapters:
   - path: chapters/week03/03.md
     sections:
       - path: chapters/week03/03_0.md
-epilogues:
-  - path: chapters/epilogue.md
 
