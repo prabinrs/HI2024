@@ -1,5 +1,3 @@
-# Elective Course on Health Informatics 2024
-
 ## Lectures
 
 Most of the lectures, labs, and notebooks are avalible in github and canvas 
