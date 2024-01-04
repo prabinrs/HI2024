@@ -1,9 +1,27 @@
 ---
 layout: default
 title: Health Informatics
+author: Dr.Biraj / Prabin
 lang-ref: home
 ---
-# Elective Course on Health Informatics 2024
+
+**Elective course in Health Informatics - winter 2023**
+
+| INSTRUCTORS | , __ and __ |
+| LECTURES    | Wednesday 9:30 – 11:30, Zoom |
+| PRACTICA    | Tuesdays 9:30 – 10:30, Zoom |
+
+
+
+## 2021 edition disclaimer
+
+Check the repo's [`README.md`](https://github.com/prabinrs/HI2023/blob/master/README.md) and learn about:
+
+- Content new organisation
+- The semester's second half intellectual dilemma
+- This semester repository
+- Previous releases
+
 
 ## Lectures
 

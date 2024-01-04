@@ -38,23 +38,18 @@ prologues:
     sections:
       - path: chapters/prologue2.md
 chapters:
-  - path: chapters/01.md
+  - path: chapters/week01/01.md
     sections:
-      - path: chapters/01-1.md
-      - path: chapters/01-2.md
-  - path: chapters/02.md
+      - path: chapters/week01/01_01.md
+      - path: chapters/week01/01_02.md
+      - path: chapters/week01/01_03.md
+      - path: chapters/week01/01_04.md
+      - path: chapters/week01/01_05.md
+      - path: chapters/week01/01_06.md
+  - path: chapters/week02/02.md
+  - path: chapters/week03/03.md
+    sections:
+      - path: chapters/week03/03_0.md
 epilogues:
   - path: chapters/epilogue.md
-
-
-# If you want to support multiple languages
-zh:
-  title: 'JekyllBook but in Chinese'
-  tagline: 'A translated Jekyll theme'
-  chapters:
-    - path: zh/01.md
-      sections:
-        - path: zh/01-1.md
-        - path: zh/01-2.md
-    - path: zh/02.md
 
