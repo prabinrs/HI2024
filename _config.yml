@@ -33,8 +33,8 @@ exclude:
 
 # Chapter Configuration (up to a 2 level nested list)
 
-prologues:
-  - path: chapters/prologue.md
+#prologues:
+  #- path: chapters/prologue.md
 chapters:
   - path: chapters/week01/01.md
     sections:
